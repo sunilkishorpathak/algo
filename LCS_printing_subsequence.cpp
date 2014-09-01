@@ -68,7 +68,7 @@ int LCS(string& first, string& second, string& lcs)
 
 	while ( (i>0) && (j>0) ) {
 		if ( bmatrix[i][j] == 'b') {
-			path.push_back(first.at(i));
+			path.push_back(first.at(i-1));
 			i = i - 1;
 			j = j - 1;
 		} else {
