@@ -38,7 +38,6 @@
 **		Think about the memoization and store calculated value in table. 
 **
 **	Ref : http://www.geeksforgeeks.org/dynamic-programming-set-31-optimal-strategy-for-a-game/
-**			A good explanation is also at : http://tech-queries.blogspot.in/2011/06/get-maximum-sum-from-coins-in-line.html
 **
 **			
 */
