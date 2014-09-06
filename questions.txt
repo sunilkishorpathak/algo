@@ -1,2 +1,3 @@
 Questions:
-1. Edit distance
+# Edit distance
+# 2n+2 element : There is an unsorted array having 2n+2 number, n numbers are duplicated. Find out the 2 odd numberes which are not repeated.
