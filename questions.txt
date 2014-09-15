@@ -1,3 +1,4 @@
 Questions:
 # Edit distance
 # 2n+2 element : There is an unsorted array having 2n+2 number, n numbers are duplicated. Find out the 2 odd numberes which are not repeated.
+# LIS (Longest increasing subsequence) : Given a sequence, you have to find out the longest subsequence which is increasing.
