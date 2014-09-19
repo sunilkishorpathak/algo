@@ -3,3 +3,5 @@ Questions:
 # 2n+2 element : There is an unsorted array having 2n+2 number, n numbers are duplicated. Find out the 2 odd numberes which are not repeated.
 # LIS (Longest increasing subsequence) : Given a sequence, you have to find out the longest subsequence which is increasing.
 # LAS (Longest Alternating Subsequence) : Alternate sequence is the sequence in which numbers are going up and down e.g. x1 > x2 < x3 > x4 < x5 etc, you have to find out the length of the maximum subsequence.
+
+# Determine file type : In every file format first few bytes are determining type of the file. E.g. for JPEG (.jpg extension) header is 0xFF and xD8 (2-bytes). Please write a class and it's function to determine whethen a file type. i/p will be a table having three colums 1. no of bytes of header, 2. header data, 3. file type e.g. first entry in the table will be 2 | FFD8 | JPEG
